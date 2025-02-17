@@ -9,7 +9,7 @@ import adminRouter from "./router/admin/adminRouter.js";
 import logincheckRouter from "./router/auth/logincheckRouter.js";
 import http from "http";
 import datachartRouter, { setWebSocket } from "./router/admin/websocket.js";
-import functions from "firebase-functions";
+
 
 const app = express();
 
@@ -64,11 +64,6 @@ app.use("/api/auth", authRouter);
 app.use("/api/admin", authMiddleware, adminRouter);
 app.use("/api/stocks", authMiddleware, datachartRouter);
 
-app.get("/", (req, res) => {
-  res.send("Hello from Firebase Functions!");
-});
-
-exports.api = functions.https.onRequest(app);
 
 //app.get('/', authMiddleware, (req, res) => { res.send('WebSocket Server is Running')})
 
