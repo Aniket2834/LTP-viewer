@@ -1,0 +1,2800 @@
+[{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8d8"
+  },
+  "token": "13",
+  "symbol": "ABB-EQ",
+  "name": "ABB",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8d9"
+  },
+  "token": "22",
+  "symbol": "ACC-EQ",
+  "name": "ACC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8da"
+  },
+  "token": "25780",
+  "symbol": "APLAPOLLO-EQ",
+  "name": "APLAPOLLO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8db"
+  },
+  "token": "21238",
+  "symbol": "AUBANK-EQ",
+  "name": "AUBANK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8dc"
+  },
+  "token": "10217",
+  "symbol": "ADANIENSOL-EQ",
+  "name": "ADANIENSOL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8dd"
+  },
+  "token": "25",
+  "symbol": "ADANIENT-EQ",
+  "name": "ADANIENT",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8de"
+  },
+  "token": "3563",
+  "symbol": "ADANIGREEN-EQ",
+  "name": "ADANIGREEN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8df"
+  },
+  "token": "15083",
+  "symbol": "ADANIPORTS-EQ",
+  "name": "ADANIPORTS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e0"
+  },
+  "token": "17388",
+  "symbol": "ADANIPOWER-EQ",
+  "name": "ADANIPOWER",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e1"
+  },
+  "token": "6066",
+  "symbol": "ATGL-EQ",
+  "name": "ATGL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e2"
+  },
+  "token": "21614",
+  "symbol": "ABCAPITAL-EQ",
+  "name": "ABCAPITAL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e3"
+  },
+  "token": "30108",
+  "symbol": "ABFRL-EQ",
+  "name": "ABFRL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e4"
+  },
+  "token": "11703",
+  "symbol": "ALKEM-EQ",
+  "name": "ALKEM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e5"
+  },
+  "token": "1270",
+  "symbol": "AMBUJACEM-EQ",
+  "name": "AMBUJACEM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e6"
+  },
+  "token": "157",
+  "symbol": "APOLLOHOSP-EQ",
+  "name": "APOLLOHOSP",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e7"
+  },
+  "token": "163",
+  "symbol": "APOLLOTYRE-EQ",
+  "name": "APOLLOTYRE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e8"
+  },
+  "token": "212",
+  "symbol": "ASHOKLEY-EQ",
+  "name": "ASHOKLEY",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8e9"
+  },
+  "token": "236",
+  "symbol": "ASIANPAINT-EQ",
+  "name": "ASIANPAINT",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8ea"
+  },
+  "token": "14418",
+  "symbol": "ASTRAL-EQ",
+  "name": "ASTRAL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8eb"
+  },
+  "token": "275",
+  "symbol": "AUROPHARMA-EQ",
+  "name": "AUROPHARMA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8ec"
+  },
+  "token": "19913",
+  "symbol": "DMART-EQ",
+  "name": "DMART",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8ed"
+  },
+  "token": "5900",
+  "symbol": "AXISBANK-EQ",
+  "name": "AXISBANK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8ee"
+  },
+  "token": "19585",
+  "symbol": "BSE-EQ",
+  "name": "BSE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8ef"
+  },
+  "token": "16669",
+  "symbol": "BAJAJ-AUTO-EQ",
+  "name": "BAJAJ-AUTO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f0"
+  },
+  "token": "317",
+  "symbol": "BAJFINANCE-EQ",
+  "name": "BAJFINANCE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f1"
+  },
+  "token": "16675",
+  "symbol": "BAJAJFINSV-EQ",
+  "name": "BAJAJFINSV",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f2"
+  },
+  "token": "305",
+  "symbol": "BAJAJHLDNG-EQ",
+  "name": "BAJAJHLDNG",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f3"
+  },
+  "token": "335",
+  "symbol": "BALKRISIND-EQ",
+  "name": "BALKRISIND",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f4"
+  },
+  "token": "2263",
+  "symbol": "BANDHANBNK-EQ",
+  "name": "BANDHANBNK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f5"
+  },
+  "token": "4668",
+  "symbol": "BANKBARODA-EQ",
+  "name": "BANKBARODA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f6"
+  },
+  "token": "4745",
+  "symbol": "BANKINDIA-EQ",
+  "name": "BANKINDIA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f7"
+  },
+  "token": "11377",
+  "symbol": "MAHABANK-EQ",
+  "name": "MAHABANK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f8"
+  },
+  "token": "404",
+  "symbol": "BERGEPAINT-EQ",
+  "name": "BERGEPAINT",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8f9"
+  },
+  "token": "2144",
+  "symbol": "BDL-EQ",
+  "name": "BDL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8fa"
+  },
+  "token": "383",
+  "symbol": "BEL-EQ",
+  "name": "BEL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8fb"
+  },
+  "token": "422",
+  "symbol": "BHARATFORG-EQ",
+  "name": "BHARATFORG",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8fc"
+  },
+  "token": "438",
+  "symbol": "BHEL-EQ",
+  "name": "BHEL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8fd"
+  },
+  "token": "526",
+  "symbol": "BPCL-EQ",
+  "name": "BPCL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8fe"
+  },
+  "token": "10604",
+  "symbol": "BHARTIARTL-EQ",
+  "name": "BHARTIARTL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde8ff"
+  },
+  "token": "11373",
+  "symbol": "BIOCON-EQ",
+  "name": "BIOCON",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde900"
+  },
+  "token": "2181",
+  "symbol": "BOSCHLTD-EQ",
+  "name": "BOSCHLTD",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde901"
+  },
+  "token": "547",
+  "symbol": "BRITANNIA-EQ",
+  "name": "BRITANNIA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde902"
+  },
+  "token": "760",
+  "symbol": "CGPOWER-EQ",
+  "name": "CGPOWER",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde903"
+  },
+  "token": "10794",
+  "symbol": "CANBK-EQ",
+  "name": "CANBK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde904"
+  },
+  "token": "685",
+  "symbol": "CHOLAFIN-EQ",
+  "name": "CHOLAFIN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde905"
+  },
+  "token": "694",
+  "symbol": "CIPLA-EQ",
+  "name": "CIPLA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde906"
+  },
+  "token": "20374",
+  "symbol": "COALINDIA-EQ",
+  "name": "COALINDIA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde907"
+  },
+  "token": "11543",
+  "symbol": "COFORGE-EQ",
+  "name": "COFORGE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde908"
+  },
+  "token": "15141",
+  "symbol": "COLPAL-EQ",
+  "name": "COLPAL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde909"
+  },
+  "token": "4749",
+  "symbol": "CONCOR-EQ",
+  "name": "CONCOR",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde90a"
+  },
+  "token": "1901",
+  "symbol": "CUMMINSIND-EQ",
+  "name": "CUMMINSIND",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde90b"
+  },
+  "token": "14732",
+  "symbol": "DLF-EQ",
+  "name": "DLF",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde90c"
+  },
+  "token": "772",
+  "symbol": "DABUR-EQ",
+  "name": "DABUR",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde90d"
+  },
+  "token": "8075",
+  "symbol": "DALBHARAT-EQ",
+  "name": "DALBHARAT",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde90e"
+  },
+  "token": "19943",
+  "symbol": "DEEPAKNTR-EQ",
+  "name": "DEEPAKNTR",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde90f"
+  },
+  "token": "9599",
+  "symbol": "DELHIVERY-EQ",
+  "name": "DELHIVERY",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde910"
+  },
+  "token": "10940",
+  "symbol": "DIVISLAB-EQ",
+  "name": "DIVISLAB",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde911"
+  },
+  "token": "21690",
+  "symbol": "DIXON-EQ",
+  "name": "DIXON",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde912"
+  },
+  "token": "11654",
+  "symbol": "LALPATHLAB-EQ",
+  "name": "LALPATHLAB",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde913"
+  },
+  "token": "881",
+  "symbol": "DRREDDY-EQ",
+  "name": "DRREDDY",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde914"
+  },
+  "token": "910",
+  "symbol": "EICHERMOT-EQ",
+  "name": "EICHERMOT",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde915"
+  },
+  "token": "958",
+  "symbol": "ESCORTS-EQ",
+  "name": "ESCORTS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde916"
+  },
+  "token": "6545",
+  "symbol": "NYKAA-EQ",
+  "name": "NYKAA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde917"
+  },
+  "token": "1023",
+  "symbol": "FEDERALBNK-EQ",
+  "name": "FEDERALBNK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde918"
+  },
+  "token": "1008",
+  "symbol": "FACT-EQ",
+  "name": "FACT",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde919"
+  },
+  "token": "14592",
+  "symbol": "FORTIS-EQ",
+  "name": "FORTIS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde91a"
+  },
+  "token": "4717",
+  "symbol": "GAIL-EQ",
+  "name": "GAIL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde91b"
+  },
+  "token": "13528",
+  "symbol": "GMRINFRA-EQ",
+  "name": "GMRINFRA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde91c"
+  },
+  "token": "1186",
+  "symbol": "GLAND-EQ",
+  "name": "GLAND",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde91d"
+  },
+  "token": "10099",
+  "symbol": "GODREJCP-EQ",
+  "name": "GODREJCP",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde91e"
+  },
+  "token": "17875",
+  "symbol": "GODREJPROP-EQ",
+  "name": "GODREJPROP",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde91f"
+  },
+  "token": "1232",
+  "symbol": "GRASIM-EQ",
+  "name": "GRASIM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde920"
+  },
+  "token": "10599",
+  "symbol": "GUJGASLTD-EQ",
+  "name": "GUJGASLTD",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde921"
+  },
+  "token": "7229",
+  "symbol": "HCLTECH-EQ",
+  "name": "HCLTECH",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde922"
+  },
+  "token": "4244",
+  "symbol": "HDFCAMC-EQ",
+  "name": "HDFCAMC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde923"
+  },
+  "token": "1333",
+  "symbol": "HDFCBANK-EQ",
+  "name": "HDFCBANK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde924"
+  },
+  "token": "467",
+  "symbol": "HDFCLIFE-EQ",
+  "name": "HDFCLIFE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde925"
+  },
+  "token": "9819",
+  "symbol": "HAVELLS-EQ",
+  "name": "HAVELLS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde926"
+  },
+  "token": "1348",
+  "symbol": "HEROMOTOCO-EQ",
+  "name": "HEROMOTOCO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde927"
+  },
+  "token": "1363",
+  "symbol": "HINDALCO-EQ",
+  "name": "HINDALCO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde928"
+  },
+  "token": "2303",
+  "symbol": "HAL-EQ",
+  "name": "HAL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde929"
+  },
+  "token": "1406",
+  "symbol": "HINDPETRO-EQ",
+  "name": "HINDPETRO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde92a"
+  },
+  "token": "1394",
+  "symbol": "HINDUNILVR-EQ",
+  "name": "HINDUNILVR",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde92b"
+  },
+  "token": "4963",
+  "symbol": "ICICIBANK-EQ",
+  "name": "ICICIBANK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde92c"
+  },
+  "token": "21770",
+  "symbol": "ICICIGI-EQ",
+  "name": "ICICIGI",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde92d"
+  },
+  "token": "18652",
+  "symbol": "ICICIPRULI-EQ",
+  "name": "ICICIPRULI",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde92e"
+  },
+  "token": "1476",
+  "symbol": "IDBI-EQ",
+  "name": "IDBI",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde92f"
+  },
+  "token": "11184",
+  "symbol": "IDFCFIRSTB-EQ",
+  "name": "IDFCFIRSTB",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde930"
+  },
+  "token": "1660",
+  "symbol": "ITC-EQ",
+  "name": "ITC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde931"
+  },
+  "token": "14309",
+  "symbol": "INDIANB-EQ",
+  "name": "INDIANB",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde932"
+  },
+  "token": "1512",
+  "symbol": "INDHOTEL-EQ",
+  "name": "INDHOTEL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde933"
+  },
+  "token": "1624",
+  "symbol": "IOC-EQ",
+  "name": "IOC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde934"
+  },
+  "token": "13611",
+  "symbol": "IRCTC-EQ",
+  "name": "IRCTC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde935"
+  },
+  "token": "2029",
+  "symbol": "IRFC-EQ",
+  "name": "IRFC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde936"
+  },
+  "token": "11262",
+  "symbol": "IGL-EQ",
+  "name": "IGL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde937"
+  },
+  "token": "29135",
+  "symbol": "INDUSTOWER-EQ",
+  "name": "INDUSTOWER",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde938"
+  },
+  "token": "5258",
+  "symbol": "INDUSINDBK-EQ",
+  "name": "INDUSINDBK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde939"
+  },
+  "token": "13751",
+  "symbol": "NAUKRI-EQ",
+  "name": "NAUKRI",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde93a"
+  },
+  "token": "1594",
+  "symbol": "INFY-EQ",
+  "name": "INFY",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde93b"
+  },
+  "token": "11195",
+  "symbol": "INDIGO-EQ",
+  "name": "INDIGO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde93c"
+  },
+  "token": "1633",
+  "symbol": "IPCALAB-EQ",
+  "name": "IPCALAB",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde93d"
+  },
+  "token": "17869",
+  "symbol": "JSWENERGY-EQ",
+  "name": "JSWENERGY",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde93e"
+  },
+  "token": "19020",
+  "symbol": "JSWINFRA-EQ",
+  "name": "JSWINFRA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde93f"
+  },
+  "token": "11723",
+  "symbol": "JSWSTEEL-EQ",
+  "name": "JSWSTEEL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde940"
+  },
+  "token": "6733",
+  "symbol": "JINDALSTEL-EQ",
+  "name": "JINDALSTEL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde941"
+  },
+  "token": "18143",
+  "symbol": "JIOFIN-EQ",
+  "name": "JIOFIN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde942"
+  },
+  "token": "18096",
+  "symbol": "JUBLFOOD-EQ",
+  "name": "JUBLFOOD",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde943"
+  },
+  "token": "9683",
+  "symbol": "KPITTECH-EQ",
+  "name": "KPITTECH",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde944"
+  },
+  "token": "2955",
+  "symbol": "KALYANKJIL-EQ",
+  "name": "KALYANKJIL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde945"
+  },
+  "token": "1922",
+  "symbol": "KOTAKBANK-EQ",
+  "name": "KOTAKBANK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde946"
+  },
+  "token": "24948",
+  "symbol": "LTF-EQ",
+  "name": "LTF",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde947"
+  },
+  "token": "18564",
+  "symbol": "LTTS-EQ",
+  "name": "LTTS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde948"
+  },
+  "token": "1997",
+  "symbol": "LICHSGFIN-EQ",
+  "name": "LICHSGFIN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde949"
+  },
+  "token": "17818",
+  "symbol": "LTIM-EQ",
+  "name": "LTIM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde94a"
+  },
+  "token": "11483",
+  "symbol": "LT-EQ",
+  "name": "LT",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde94b"
+  },
+  "token": "19234",
+  "symbol": "LAURUSLABS-EQ",
+  "name": "LAURUSLABS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde94c"
+  },
+  "token": "9480",
+  "symbol": "LICI-EQ",
+  "name": "LICI",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde94d"
+  },
+  "token": "10440",
+  "symbol": "LUPIN-EQ",
+  "name": "LUPIN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde94e"
+  },
+  "token": "2277",
+  "symbol": "MRF-EQ",
+  "name": "MRF",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde94f"
+  },
+  "token": "3220",
+  "symbol": "LODHA-EQ",
+  "name": "LODHA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde950"
+  },
+  "token": "13285",
+  "symbol": "M&MFIN-EQ",
+  "name": "M&MFIN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde951"
+  },
+  "token": "2031",
+  "symbol": "M&M-EQ",
+  "name": "M&M",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde952"
+  },
+  "token": "15380",
+  "symbol": "MANKIND-EQ",
+  "name": "MANKIND",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde953"
+  },
+  "token": "4067",
+  "symbol": "MARICO-EQ",
+  "name": "MARICO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde954"
+  },
+  "token": "10999",
+  "symbol": "MARUTI-EQ",
+  "name": "MARUTI",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde955"
+  },
+  "token": "2142",
+  "symbol": "MFSL-EQ",
+  "name": "MFSL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde956"
+  },
+  "token": "22377",
+  "symbol": "MAXHEALTH-EQ",
+  "name": "MAXHEALTH",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde957"
+  },
+  "token": "509",
+  "symbol": "MAZDOCK-EQ",
+  "name": "MAZDOCK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde958"
+  },
+  "token": "4503",
+  "symbol": "MPHASIS-EQ",
+  "name": "MPHASIS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde959"
+  },
+  "token": "17400",
+  "symbol": "NHPC-EQ",
+  "name": "NHPC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde95a"
+  },
+  "token": "15332",
+  "symbol": "NMDC-EQ",
+  "name": "NMDC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde95b"
+  },
+  "token": "11630",
+  "symbol": "NTPC-EQ",
+  "name": "NTPC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde95c"
+  },
+  "token": "17963",
+  "symbol": "NESTLEIND-EQ",
+  "name": "NESTLEIND",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde95d"
+  },
+  "token": "20242",
+  "symbol": "OBEROIRLTY-EQ",
+  "name": "OBEROIRLTY",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde95e"
+  },
+  "token": "2475",
+  "symbol": "ONGC-EQ",
+  "name": "ONGC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde95f"
+  },
+  "token": "17438",
+  "symbol": "OIL-EQ",
+  "name": "OIL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde960"
+  },
+  "token": "6705",
+  "symbol": "PAYTM-EQ",
+  "name": "PAYTM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde961"
+  },
+  "token": "10738",
+  "symbol": "OFSS-EQ",
+  "name": "OFSS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde962"
+  },
+  "token": "6656",
+  "symbol": "POLICYBZR-EQ",
+  "name": "POLICYBZR",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde963"
+  },
+  "token": "24184",
+  "symbol": "PIIND-EQ",
+  "name": "PIIND",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde964"
+  },
+  "token": "14413",
+  "symbol": "PAGEIND-EQ",
+  "name": "PAGEIND",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde965"
+  },
+  "token": "17029",
+  "symbol": "PATANJALI-EQ",
+  "name": "PATANJALI",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde966"
+  },
+  "token": "18365",
+  "symbol": "PERSISTENT-EQ",
+  "name": "PERSISTENT",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde967"
+  },
+  "token": "11351",
+  "symbol": "PETRONET-EQ",
+  "name": "PETRONET",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde968"
+  },
+  "token": "2664",
+  "symbol": "PIDILITIND-EQ",
+  "name": "PIDILITIND",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde969"
+  },
+  "token": "2412",
+  "symbol": "PEL-EQ",
+  "name": "PEL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde96a"
+  },
+  "token": "9590",
+  "symbol": "POLYCAB-EQ",
+  "name": "POLYCAB",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde96b"
+  },
+  "token": "11403",
+  "symbol": "POONAWALLA-EQ",
+  "name": "POONAWALLA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde96c"
+  },
+  "token": "14299",
+  "symbol": "PFC-EQ",
+  "name": "PFC",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde96d"
+  },
+  "token": "14977",
+  "symbol": "POWERGRID-EQ",
+  "name": "POWERGRID",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde96e"
+  },
+  "token": "20302",
+  "symbol": "PRESTIGE-EQ",
+  "name": "PRESTIGE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde96f"
+  },
+  "token": "10666",
+  "symbol": "PNB-EQ",
+  "name": "PNB",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde970"
+  },
+  "token": "15355",
+  "symbol": "RECLTD-EQ",
+  "name": "RECLTD",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde971"
+  },
+  "token": "9552",
+  "symbol": "RVNL-EQ",
+  "name": "RVNL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde972"
+  },
+  "token": "2885",
+  "symbol": "RELIANCE-EQ",
+  "name": "RELIANCE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde973"
+  },
+  "token": "17971",
+  "symbol": "SBICARD-EQ",
+  "name": "SBICARD",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde974"
+  },
+  "token": "21808",
+  "symbol": "SBILIFE-EQ",
+  "name": "SBILIFE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde975"
+  },
+  "token": "18883",
+  "symbol": "SJVN-EQ",
+  "name": "SJVN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde976"
+  },
+  "token": "3273",
+  "symbol": "SRF-EQ",
+  "name": "SRF",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde977"
+  },
+  "token": "4204",
+  "symbol": "MOTHERSON-EQ",
+  "name": "MOTHERSON",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde978"
+  },
+  "token": "3103",
+  "symbol": "SHREECEM-EQ",
+  "name": "SHREECEM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde979"
+  },
+  "token": "4306",
+  "symbol": "SHRIRAMFIN-EQ",
+  "name": "SHRIRAMFIN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde97a"
+  },
+  "token": "3150",
+  "symbol": "SIEMENS-EQ",
+  "name": "SIEMENS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde97b"
+  },
+  "token": "4684",
+  "symbol": "SONACOMS-EQ",
+  "name": "SONACOMS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde97c"
+  },
+  "token": "3045",
+  "symbol": "SBIN-EQ",
+  "name": "SBIN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde97d"
+  },
+  "token": "2963",
+  "symbol": "SAIL-EQ",
+  "name": "SAIL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde97e"
+  },
+  "token": "3351",
+  "symbol": "SUNPHARMA-EQ",
+  "name": "SUNPHARMA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde97f"
+  },
+  "token": "13404",
+  "symbol": "SUNTV-EQ",
+  "name": "SUNTV",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde980"
+  },
+  "token": "3363",
+  "symbol": "SUPREMEIND-EQ",
+  "name": "SUPREMEIND",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde981"
+  },
+  "token": "12018",
+  "symbol": "SUZLON-EQ",
+  "name": "SUZLON",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde982"
+  },
+  "token": "10243",
+  "symbol": "SYNGENE-EQ",
+  "name": "SYNGENE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde983"
+  },
+  "token": "8479",
+  "symbol": "TVSMOTOR-EQ",
+  "name": "TVSMOTOR",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde984"
+  },
+  "token": "3405",
+  "symbol": "TATACHEM-EQ",
+  "name": "TATACHEM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde985"
+  },
+  "token": "3721",
+  "symbol": "TATACOMM-EQ",
+  "name": "TATACOMM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde986"
+  },
+  "token": "11536",
+  "symbol": "TCS-EQ",
+  "name": "TCS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde987"
+  },
+  "token": "3432",
+  "symbol": "TATACONSUM-EQ",
+  "name": "TATACONSUM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde988"
+  },
+  "token": "3411",
+  "symbol": "TATAELXSI-EQ",
+  "name": "TATAELXSI",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde989"
+  },
+  "token": "3456",
+  "symbol": "TATAMOTORS-EQ",
+  "name": "TATAMOTORS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde98a"
+  },
+  "token": "3426",
+  "symbol": "TATAPOWER-EQ",
+  "name": "TATAPOWER",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde98b"
+  },
+  "token": "3499",
+  "symbol": "TATASTEEL-EQ",
+  "name": "TATASTEEL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde98c"
+  },
+  "token": "20293",
+  "symbol": "TATATECH-EQ",
+  "name": "TATATECH",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde98d"
+  },
+  "token": "13538",
+  "symbol": "TECHM-EQ",
+  "name": "TECHM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde98e"
+  },
+  "token": "3506",
+  "symbol": "TITAN-EQ",
+  "name": "TITAN",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde98f"
+  },
+  "token": "3518",
+  "symbol": "TORNTPHARM-EQ",
+  "name": "TORNTPHARM",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde990"
+  },
+  "token": "13786",
+  "symbol": "TORNTPOWER-EQ",
+  "name": "TORNTPOWER",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde991"
+  },
+  "token": "1964",
+  "symbol": "TRENT-EQ",
+  "name": "TRENT",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde992"
+  },
+  "token": "312",
+  "symbol": "TIINDIA-EQ",
+  "name": "TIINDIA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde993"
+  },
+  "token": "11287",
+  "symbol": "UPL-EQ",
+  "name": "UPL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde994"
+  },
+  "token": "11532",
+  "symbol": "ULTRACEMCO-EQ",
+  "name": "ULTRACEMCO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde995"
+  },
+  "token": "10753",
+  "symbol": "UNIONBANK-EQ",
+  "name": "UNIONBANK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde996"
+  },
+  "token": "10447",
+  "symbol": "UNITDSPR-EQ",
+  "name": "UNITDSPR",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde997"
+  },
+  "token": "18921",
+  "symbol": "VBL-EQ",
+  "name": "VBL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde998"
+  },
+  "token": "3063",
+  "symbol": "VEDL-EQ",
+  "name": "VEDL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde999"
+  },
+  "token": "14366",
+  "symbol": "IDEA-EQ",
+  "name": "IDEA",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde99a"
+  },
+  "token": "3718",
+  "symbol": "VOLTAS-EQ",
+  "name": "VOLTAS",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde99b"
+  },
+  "token": "3787",
+  "symbol": "WIPRO-EQ",
+  "name": "WIPRO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde99c"
+  },
+  "token": "11915",
+  "symbol": "YESBANK-EQ",
+  "name": "YESBANK",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde99d"
+  },
+  "token": "3812",
+  "symbol": "ZEEL-EQ",
+  "name": "ZEEL",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "1.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde99e"
+  },
+  "token": "5097",
+  "symbol": "ZOMATO-EQ",
+  "name": "ZOMATO",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+},
+{
+  "_id": {
+    "$oid": "67a58c9d4d4c999427fde99f"
+  },
+  "token": "7929",
+  "symbol": "ZYDUSLIFE-EQ",
+  "name": "ZYDUSLIFE",
+  "expiry": "",
+  "strike": "-1.000000",
+  "lotsize": "1",
+  "instrumenttype": "",
+  "exch_seg": "NSE",
+  "tick_size": "5.000000"
+}]

@@ -9,6 +9,7 @@ import adminRouter from "./router/admin/adminRouter.js";
 import logincheckRouter from "./router/auth/logincheckRouter.js";
 import http from "http";
 import datachartRouter, { setWebSocket } from "./router/admin/websocket.js";
+import { datainsert } from "./helper/positionFunction.js";
 
 
 const app = express();
@@ -92,6 +93,7 @@ dbConnect()
   .then(() => {
     server.listen(port, () => {
       Admin();
+      datainsert();
       console.log(`server is listening at ${port}`);
     });
   })
