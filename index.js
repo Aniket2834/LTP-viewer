@@ -11,7 +11,6 @@ import http from "http";
 import datachartRouter, { setWebSocket } from "./router/admin/websocket.js";
 import { datainsert } from "./helper/positionFunction.js";
 
-
 const app = express();
 
 const server = http.createServer(app);
@@ -65,10 +64,21 @@ app.use("/api/auth", authRouter);
 app.use("/api/admin", authMiddleware, adminRouter);
 app.use("/api/stocks", authMiddleware, datachartRouter);
 
-
 //app.get('/', authMiddleware, (req, res) => { res.send('WebSocket Server is Running')})
 
 //frontend routes
+// if (prod) {
+//   const fp = config.FRONTEND_PATH;
+//   app.use(morgan("dev"));
+//   app.use("/", express.static(fp));
+//   app.get("/*", (req, res) => {
+//     res.sendFile("index.html", { root: config.FRONTEND_PATH });
+//   });
+//   console.log("staring production server");
+// } else {
+//   console.log("running development server");
+// }
+
 if (prod) {
   const fp = config.FRONTEND_PATH;
   app.use(morgan("dev"));
@@ -76,9 +86,7 @@ if (prod) {
   app.get("/*", (req, res) => {
     res.sendFile("index.html", { root: config.FRONTEND_PATH });
   });
-  console.log("staring production server");
-} else {
-  console.log("running development server");
+  console.log("starting production server");
 }
 
 //not found
