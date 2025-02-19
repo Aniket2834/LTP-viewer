@@ -21,6 +21,14 @@ const port = config.PORT;
 const env = config.DEVPROD || "prod";
 const prod = env === "prod";
 
+app.use(
+  cors({
+    origin: FRONTEND_URL, // Allow only frontend
+    methods: ["GET", "POST", "PUT", "DELETE"], // Allowed methods
+    allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
+    credentials: true, // Required if using authentication cookies/sessions
+  })
+);
 //middleware
 app.use(express.json());
 if (!prod) {
