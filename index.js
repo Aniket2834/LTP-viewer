@@ -23,7 +23,7 @@ const prod = env === "prod";
 
 app.use(
   cors({
-    origin: FRONTEND_URL, // Allow only frontend
+    origin: FRONTEND_PATH, // Allow only frontend
     methods: ["GET", "POST", "PUT", "DELETE"], // Allowed methods
     allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
     credentials: true, // Required if using authentication cookies/sessions
