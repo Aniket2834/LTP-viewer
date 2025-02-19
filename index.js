@@ -21,6 +21,9 @@ const port = config.PORT;
 const env = config.DEVPROD || "prod";
 const prod = env === "prod";
 
+const FRONTEND_PATH =
+  process.env.FRONTEND_PATH || "https://ltp-viewer-frontend.onrender.com";
+
 app.use(
   cors({
     origin: FRONTEND_PATH, // Allow only frontend
@@ -86,9 +89,6 @@ app.use("/api/stocks", authMiddleware, datachartRouter);
 // } else {
 //   console.log("running development server");
 // }
-
-const FRONTEND_PATH =
-  process.env.FRONTEND_PATH || "https://ltp-viewer-frontend.onrender.com";
 
 app.use(
   cors({
