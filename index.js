@@ -24,14 +24,14 @@ const prod = env === "prod";
 const FRONTEND_PATH =
   process.env.FRONTEND_PATH || "https://ltp-viewer-frontend.onrender.com";
 
-app.use(
-  cors({
-    origin: FRONTEND_PATH, // Allow only frontend
-    methods: ["GET", "POST", "PUT", "DELETE"], // Allowed methods
-    allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
-    credentials: true, // Required if using authentication cookies/sessions
-  })
-);
+// app.use(
+//   cors({
+//     origin: FRONTEND_PATH, // Allow only frontend
+//     methods: ["GET", "POST", "PUT", "DELETE"], // Allowed methods
+//     allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
+//     credentials: true, // Required if using authentication cookies/sessions
+//   })
+// );
 //middleware
 app.use(express.json());
 if (!prod) {
@@ -90,12 +90,6 @@ app.use("/api/stocks", authMiddleware, datachartRouter);
 //   console.log("running development server");
 // }
 
-app.use(
-  cors({
-    origin: FRONTEND_PATH, // Allow only frontend
-    credentials: true, // Required if using authentication cookies
-  })
-);
 
 //not found
 app.use("*", (req, res) => {
