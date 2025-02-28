@@ -34,7 +34,7 @@ async function signinHandler(req, res) {
     if (!comparepassword) {
       return errorResponse(res, 404, "invalid password");
     }
-    
+
     const userid = users._id.toString();
 
     const { encoded_token, public_token } = generateAccessToken(

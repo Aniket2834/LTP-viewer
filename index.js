@@ -21,9 +21,8 @@ const port = config.PORT;
 const env = config.DEVPROD || "prod";
 const prod = env === "prod";
 
-const FRONTEND_PATH =
-  process.env.FRONTEND_PATH || "https://ltp-viewer-frontend.onrender.com";
-
+// const FRONTEND_PATH =
+//   process.env.FRONTEND_PATH || "https://ltp-viewer-frontend.onrender.com";
 // app.use(
 //   cors({
 //     origin: FRONTEND_PATH, // Allow only frontend
@@ -32,6 +31,8 @@ const FRONTEND_PATH =
 //     credentials: true, // Required if using authentication cookies/sessions
 //   })
 // );
+
+
 //middleware
 app.use(express.json());
 if (!prod) {
@@ -78,17 +79,17 @@ app.use("/api/stocks", authMiddleware, datachartRouter);
 //app.get('/', authMiddleware, (req, res) => { res.send('WebSocket Server is Running')})
 
 //frontend routes
-// if (prod) {
-//   const fp = config.FRONTEND_PATH;
-//   app.use(morgan("dev"));
-//   app.use("/", express.static(fp));
-//   app.get("/*", (req, res) => {
-//     res.sendFile("index.html", { root: config.FRONTEND_PATH });
-//   });
-//   console.log("staring production server");
-// } else {
-//   console.log("running development server");
-// }
+if (prod) {
+  const fp = config.FRONTEND_PATH;
+  app.use(morgan("dev"));
+  app.use("/", express.static(fp));
+  app.get("/*", (req, res) => {
+    res.sendFile("index.html", { root: config.FRONTEND_PATH });
+  });
+  console.log("staring production server");
+} else {
+  console.log("running development server");
+}
 
 
 //not found
