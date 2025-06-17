@@ -27,10 +27,10 @@ export const setWebSocket = async (server) => {
             token,
             name,
             symbol,
-            livePrice: livestore[token].ltp || null, // Get live price or null if not available
-            volume: livestore[token].volume || null,
-            high52: livestore[token].high52 || null,
-            low52: livestore[token].low52 || null,
+            livePrice: livestore[token]?.ltp || null, // Get live price or null if not available
+            volume: livestore[token]?.volume || null,
+            high52: livestore[token]?.high52 || null,
+            low52: livestore[token]?.low52 || null,
           })
         );
 
