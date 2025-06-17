@@ -68,13 +68,13 @@ export async function sidebardata(req, res) {
     await sleep(2000);
     const operationdata = allsymbolsdata[allsymbolsdata.length - 1];
     const top20High_Volumes =
-      operationdata.sort((a, b) => b.volume - a.volume).slice(0, 7) || [];
+      operationdata?.sort((a, b) => b.volume - a.volume).slice(0, 7) || [];
     const top20Low_Volumes =
-      operationdata.sort((a, b) => a.volume - b.volume).slice(0, 7) || [];
+      operationdata?.sort((a, b) => a.volume - b.volume).slice(0, 7) || [];
     const top20Highest_Prices =
-      operationdata.sort((a, b) => b.livePrice - a.livePrice).slice(0, 7) || [];
+      operationdata?.sort((a, b) => b.livePrice - a.livePrice).slice(0, 7) || [];
     const top20Lowest_Prices =
-      operationdata.sort((a, b) => a.livePrice - b.livePrice).slice(0, 7) || [];
+      operationdata?.sort((a, b) => a.livePrice - b.livePrice).slice(0, 7) || [];
 
     const data = {
       top20Highest_Prices: top20Highest_Prices,
